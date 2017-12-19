@@ -1,0 +1,140 @@
+
+		body{
+			background-image: url("http://www.fondox.net/wallpapers/fondo-verde-2881.jpg");
+		}
+		.nav a{
+			background-color: rgba(128,237,128,0.5);
+			color: white;
+			display: inline-block;
+			text-align: center;
+			width: 20%;
+			font-family: sans-serif;
+			padding: 15px;
+			border-radius: 8px;
+			text-decoration: none;
+			font-family: serif;
+		}
+		.nav{
+			text-align: center;
+			width: 100%;
+		}
+		.nav a:hover{
+			background-color: rgb(83,135,74);
+		}
+		.titulo{
+			color: white;
+			text-align: left;
+			margin-top: 20px;
+			margin-left: 20px;
+			font: oblique bold 300% cursive; 
+		}
+		.div0{
+			background-color: rgb(83,135,74); 
+			margin: -8px;
+			border-radius: 5px;
+		}
+		input{
+			margin-left: 813px;
+			padding: 5px;
+			border-radius: 6px;
+			position: absolute;
+			margin-top: 20px;
+		}
+		.parrafo{
+			color: white;
+		}
+		#img{
+			width: 500px;
+			height: 300px;
+			margin-left: 100px;
+		}
+		#h2{
+			width: 50%;
+			text-align: center;
+		}
+		#p{
+			width: 52%;
+			text-align: justify;
+			float: right;
+			margin-right: 30px;
+		}
+		#p2{
+			width: 52%;
+			text-align: justify;
+			float: right;
+			margin-right: 30px;
+			margin-top: -200px;
+		}
+		footer{
+			background-color: rgb(83,135,74);
+			color: white;
+			text-align: center;
+			font-family: serif; 
+			margin-left: -8px;
+			margin-right: -8px;
+			margin-top: 20px;
+			padding: 10px;
+			border-radius: 5px;
+		}
+		#cual{
+			color: white;
+			text-align: center;
+		}
+		#polar{
+			width: 430px;
+			float: right;
+			height: 334px;
+		}
+		#uno{
+			color: white;
+			text-align: center;
+			width: 33,3%;
+			margin-left: 67%;
+			font-family: serif;
+		}
+		#dos{
+			color: white;
+			text-align: left;
+			margin-top: -41px;
+			font-family: serif;
+			margin-left: 9%;
+
+		}
+		#panda{
+			width: 207px;
+			margin-top: 0px;
+			margin-left: 33px;
+		}
+		#tres{
+			color: white;
+			text-align: center;
+			margin-top: -412px;
+			margin-right: 33px;
+		}
+		#pardo{
+			width: 180px;
+			margin-left: 543px;
+		}
+		.lista ul{
+			color: white;
+			display: inline-block;
+			margin-right: 355px;
+			font-family: serif;
+		}
+		#tree{
+			margin-right: 0px !important;
+		}
+		.eres{
+			background-color: rgb(83,135,74);
+			padding-top: 0.5px;
+		}
+		#polar:hover{
+			background-color: white;
+		}
+		#panda:hover{
+			background-color: black;
+		}
+		#pardo:hover{
+			background-color: rgb(165,85,31)
+		}
+	
